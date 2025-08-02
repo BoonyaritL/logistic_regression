@@ -7,10 +7,7 @@ Logistic Regression เป็นอัลกอริทึมการเรี
 
 ## Flow Chart การทำงาน
 
-```
 ![Uploading Untitled-2025-03-31-0441.png…]()
-
-```
 
 ## โครงสร้างโค้ด Rust
 
