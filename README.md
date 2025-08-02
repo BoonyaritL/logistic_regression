@@ -3,6 +3,7 @@
 ## ภาพรวม (Overview)
 
 Logistic Regression เป็นอัลกอริทึมการเรียนรู้ของเครื่องสำหรับการจำแนกประเภท (Classification) ที่ใช้ Sigmoid Function เพื่อทำนายความน่าจะเป็นของแต่ละคลาส
+<img width="355" height="336" alt="ภาพ" src="https://github.com/user-attachments/assets/071ef786-bc2c-421a-b388-a829c04135a2" />
 
 ## Flow Chart การทำงาน
 
