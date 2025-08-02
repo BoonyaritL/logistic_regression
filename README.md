@@ -110,6 +110,7 @@ ndarray-rand = "0.14"
 rand = "0.8"
 csv = "1.1"
 serde = { version = "1.0", features = ["derive"] }
+plotters = "0.3"
 ```
 
 ### 2. Main Structure
@@ -230,9 +231,8 @@ fn accuracy(y_true: &Array1<usize>, y_pred: &Array1<usize>) -> f64 {
 
 1. **Performance**: ความเร็วสูงในการคำนวณ
 2. **Memory Safety**: จัดการหน่วยความจำอย่างปลอดภัย
-3. **Concurrency**: รองรับการประมวลผลแบบขนาน
-4. **Zero-cost Abstractions**: ประสิทธิภาพสูงโดยไม่เสียประสิทธิภาพ
-
+3. **Concurrency**: 
+4. **Zero-cost Abstractions**: 
 ## ตัวอย่างการใช้งานจริง
 
 ### การโหลดข้อมูล CSV
