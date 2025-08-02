@@ -1,0 +1,32 @@
+# === Rust build ===
+/target/
+**/*.rs.bk
+
+# === Cargo specific ===
+/Cargo.lock
+/.cargo/
+
+# === IDE / Editor ===
+# VS Code
+.vscode/
+
+# JetBrains (CLion, IntelliJ, etc)
+.idea/
+
+# macOS
+.DS_Store
+
+# === Test logs / temp ===
+*.log
+*.tmp
+
+# === Python if mixed use ===
+*.pyc
+__pycache__/
+
+# === VSCode Jupyter logs ===
+*.ipynb_checkpoints/
+
+# === Misc ===
+*.bak
+*.swp
