@@ -6,6 +6,7 @@ Logistic Regression เป็นอัลกอริทึมการเรี
 
 
 ## Flow Chart การทำงาน
+<img width="833" height="1751" alt="img" src="https://github.com/user-attachments/assets/5812469e-0e30-4b69-b0cc-c8a7a228d26c" />
 
 ![Uploading Untitled-2025-03-31-0441.png…]()
 
