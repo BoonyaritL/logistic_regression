@@ -2,7 +2,7 @@
 
 ## ภาพรวม (Overview)
 
-Logistic Regression เป็นอัลกอริทึมการเรียนรู้ของเครื่องสำหรับการจำแนกประเภท (Classification) ที่ใช้ Sigmoid Function เพื่อทำนายความน่าจะเป็นของแต่ละคลาส
+Logistic Regression เป็นอัลกอริทึมmachine learningสำหรับการจำแนกประเภท (Classification) ที่ใช้ Sigmoid Function เพื่อทำนายความน่าจะเป็นของแต่ละคลาส
 
 
 ## Flow Chart การทำงาน
@@ -176,7 +176,7 @@ fn train_test_split(
 }
 ```
 
-## การติดตั้งและรัน
+## การติดตั้ง
 
 ```bash
 # สร้างโปรเจค Rust ใหม่
